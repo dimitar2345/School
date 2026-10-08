@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Bank/Bank.csproj" />
+  <Project Path="Domashno/Domashno.csproj" />
+  <Project Path="Library/Library.csproj" />
+  <Project Path="Shop/Shop.csproj" />
+</Solution>
