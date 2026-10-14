@@ -1,0 +1,48 @@
+@model IEnumerable<Circle.Circle>
+@{
+    ViewData["Title"] = "Circles";
+}
+
+<div class="container py-4">
+    <h1>Circles</h1>
+
+    <form asp-action="Create" method="post" class="row g-3 mb-4">
+        <div class="col-sm-4">
+            <label for="r" class="form-label">Radius</label>
+            <input id="r" name="r" type="number" min="1" step="1" required class="form-control" />
+            <span class="text-danger">@Html.ValidationMessage("r")</span>
+        </div>
+        <div class="col-sm-2 d-flex align-items-end">
+            <button type="submit" class="btn btn-primary">Add circle</button>
+        </div>
+    </form>
+
+    @if (Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Radius</th>
+                    <th>Area</th>
+                    <th>Perimeter</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var circle in Model)
+            {
+                <tr>
+                    <td>@circle.Id</td>
+                    <td>@circle.R</td>
+                    <td>@circle.Area.ToString("F2")</td>
+                    <td>@circle.Perimeter.ToString("F2")</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No circles have been saved yet.</p>
+    }
+</div>
