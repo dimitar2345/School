@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dimitar/Documents/test/Domashni/Shop/Shop.csproj": {}
+    "/home/dimitar/Documents/test/Domashni/OOP/Shop/Shop.csproj": {}
   },
   "projects": {
-    "/home/dimitar/Documents/test/Domashni/Shop/Shop.csproj": {
+    "/home/dimitar/Documents/test/Domashni/OOP/Shop/Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dimitar/Documents/test/Domashni/Shop/Shop.csproj",
+        "projectUniqueName": "/home/dimitar/Documents/test/Domashni/OOP/Shop/Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "/home/dimitar/Documents/test/Domashni/Shop/Shop.csproj",
+        "projectPath": "/home/dimitar/Documents/test/Domashni/OOP/Shop/Shop.csproj",
         "packagesPath": "/home/dimitar/.nuget/packages/",
-        "outputPath": "/home/dimitar/Documents/test/Domashni/Shop/obj/",
+        "outputPath": "/home/dimitar/Documents/test/Domashni/OOP/Shop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dimitar/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dimitar/Documents/test/Domashni/Library/Library.csproj": {}
+    "/home/dimitar/Documents/test/Domashni/OOP/Library/Library.csproj": {}
   },
   "projects": {
-    "/home/dimitar/Documents/test/Domashni/Library/Library.csproj": {
+    "/home/dimitar/Documents/test/Domashni/OOP/Library/Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dimitar/Documents/test/Domashni/Library/Library.csproj",
+        "projectUniqueName": "/home/dimitar/Documents/test/Domashni/OOP/Library/Library.csproj",
         "projectName": "Library",
-        "projectPath": "/home/dimitar/Documents/test/Domashni/Library/Library.csproj",
+        "projectPath": "/home/dimitar/Documents/test/Domashni/OOP/Library/Library.csproj",
         "packagesPath": "/home/dimitar/.nuget/packages/",
-        "outputPath": "/home/dimitar/Documents/test/Domashni/Library/obj/",
+        "outputPath": "/home/dimitar/Documents/test/Domashni/OOP/Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dimitar/.nuget/NuGet/NuGet.Config"

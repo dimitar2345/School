@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dimitar/Documents/test/Domashni/Domashno/Domashno.csproj",
+      "projectUniqueName": "/home/dimitar/Documents/test/Domashni/OOP/Domashno/Domashno.csproj",
       "projectName": "Domashno",
-      "projectPath": "/home/dimitar/Documents/test/Domashni/Domashno/Domashno.csproj",
+      "projectPath": "/home/dimitar/Documents/test/Domashni/OOP/Domashno/Domashno.csproj",
       "packagesPath": "/home/dimitar/.nuget/packages/",
-      "outputPath": "/home/dimitar/Documents/test/Domashni/Domashno/obj/",
+      "outputPath": "/home/dimitar/Documents/test/Domashni/OOP/Domashno/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dimitar/.nuget/NuGet/NuGet.Config"

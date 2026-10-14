@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dimitar/Documents/test/Domashni/Bank/Bank.csproj",
+      "projectUniqueName": "/home/dimitar/Documents/test/Domashni/OOP/Bank/Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "/home/dimitar/Documents/test/Domashni/Bank/Bank.csproj",
+      "projectPath": "/home/dimitar/Documents/test/Domashni/OOP/Bank/Bank.csproj",
       "packagesPath": "/home/dimitar/.nuget/packages/",
-      "outputPath": "/home/dimitar/Documents/test/Domashni/Bank/obj/",
+      "outputPath": "/home/dimitar/Documents/test/Domashni/OOP/Bank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dimitar/.nuget/NuGet/NuGet.Config"
