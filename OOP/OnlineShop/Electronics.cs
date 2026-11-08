@@ -9,7 +9,7 @@ public class Electronics : Product
         System.Console.WriteLine("Enter the voltage of the product");
         while (true)
         {
-            System.Console.WriteLine("Enter the price");
+            System.Console.WriteLine("Enter the voltage");
             string input = Console.ReadLine();
             int output;
             if (input != null && int.TryParse(input, out output) && output > 0)
